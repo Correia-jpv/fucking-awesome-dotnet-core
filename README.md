@@ -7,7 +7,6 @@
 ## Articles 
 
 * [haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](http://tattoocoder.azurewebsites.net/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/) - Really awesome article that using .NET Core and some of libraries like HAProxy, NGINX, Redis for the large scale infrastruture. 
-*
 
 # License
 
