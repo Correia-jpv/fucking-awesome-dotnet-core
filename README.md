@@ -56,7 +56,6 @@
 ## Logging
 * [serilog](https://github.com/serilog/serilog)
 * [NLog](https://github.com/NLog/NLog)
-*
 
 ## Mail
 
