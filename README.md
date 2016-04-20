@@ -31,6 +31,7 @@
 ## API
 
 ## Application Frameworks
+* [ExtCore](https://github.com/ExtCore) - A Free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core 1.0.
 
 ## Application Templates
 
@@ -46,6 +47,7 @@
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 
 ## CMS
+* [Platformus](https://github.com/Platformus) - A free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
 
 ## Code Analysis and Metrics
 
