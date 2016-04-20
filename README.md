@@ -39,6 +39,8 @@
 ## Build Automation
 
 ## Caching
+* [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
+* [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - a high performance general purpose redis client for .NET languages (C# etc).
 
 ## Cryptography
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
