@@ -7,6 +7,7 @@
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Build Automation](#build-automation)
   * [Caching](#caching)
+  * [Cryptography](#cryptography)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Database Drivers](#database-drivers)
@@ -39,6 +40,9 @@
 
 ## Caching
 
+## Cryptography
+* [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
+
 ## CMS
 
 ## Code Analysis and Metrics
@@ -62,6 +66,8 @@
 ## Misc
 
 ## ORM
+* [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Entity Framework Core (EF Core) provides a familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support. EF Core also enables access to data across relational and non-relational stores. EF Core is much more lightweight than previous versions and is built from the ground up to work great in the cloud (using ASP.NET Core) on devices (i.e. in universal Windows apps) as well as in traditional .NET scenarios.
+* [Dapper](https://github.com/StackExchange/dapper-dot-net) - A simple object mapper for .Net.
 
 ## Queue
 
