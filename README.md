@@ -60,8 +60,8 @@
 ## IOC
 
 ## Logging
-* [serilog](https://github.com/serilog/serilog)
-* [NLog](https://github.com/NLog/NLog)
+* [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
+* [NLog](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging.
 
 ## Mail
 
@@ -78,7 +78,7 @@
 ## Testing
 
 ## Web Framework
-* [ReactJS.NET](https://github.com/reactjs/React.NET)
+* [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 
 ## Web Socket
 
