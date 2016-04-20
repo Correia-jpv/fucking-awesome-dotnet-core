@@ -40,7 +40,7 @@
 
 ## Caching
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
-* [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - a high performance general purpose redis client for .NET languages (C# etc).
+* [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - A high performance general purpose redis client for .NET languages (C# etc).
 
 ## Cryptography
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
@@ -68,7 +68,7 @@
 ## Misc
 
 ## ORM
-* [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Entity Framework Core (EF Core) provides a familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support. EF Core also enables access to data across relational and non-relational stores. EF Core is much more lightweight than previous versions and is built from the ground up to work great in the cloud (using ASP.NET Core) on devices (i.e. in universal Windows apps) as well as in traditional .NET scenarios.
+* [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
 * [Dapper](https://github.com/StackExchange/dapper-dot-net) - A simple object mapper for .Net.
 
 ## Queue
