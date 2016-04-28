@@ -35,6 +35,7 @@
 * [ExtCore](https://github.com/ExtCore) - A Free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core 1.0.
 
 ## Application Templates
+* [ASP.NET MVC Boilerplate](https://github.com/RehanSaeed/ASP.NET-MVC-Boilerplate) - A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
 
 ## Authentication and Authorization
 
