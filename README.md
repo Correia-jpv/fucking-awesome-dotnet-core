@@ -49,6 +49,7 @@
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 
 ## CMS
+* [OrchardCMS2](https://github.com/OrchardCMS/Orchard2) - An implementation of Orchard CMS in ASP.NET Core (also known as DNX).
 * [Platformus](https://github.com/Platformus) - A free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
 
 ## Code Analysis and Metrics
