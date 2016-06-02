@@ -78,7 +78,7 @@
 
 ## ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
-* [Dapper](https://github.com/StackExchange/dapper-dot-net) - A simple object mapper for .Net.
+* [Dapper](https://github.com/StackExchange/dapper-dot-net/tree/netstandard) - A simple object mapper for .Net.
 
 ## Queue
 
