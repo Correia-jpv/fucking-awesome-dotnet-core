@@ -25,6 +25,7 @@
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
+  * [Graphics](#graphics)
   * [Best Articles](#best-articles)
   * 
 
@@ -93,6 +94,9 @@
 * [SignalR Server](https://github.com/aspnet/SignalR-Server) - A real-time web functionality for web apps, including server-side push.
 
 ## Windows Service
+
+## Graphics
+* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org)
 
 ## Best Articles 
 
