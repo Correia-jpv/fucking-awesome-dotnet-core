@@ -30,6 +30,7 @@
   * 
 
 ## API
+* [Swashbuckle](https://github.com/domaindrivendev/Ahoy) - Seamlessly adds a swagger to WebApi projects.
 
 ## Application Frameworks
 * [ASP.NET MVC](https://github.com/aspnet/Mvc) - A model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
