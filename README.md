@@ -107,6 +107,7 @@
 * [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 * [cloudscribe](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
 * [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) - An ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
+* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - An ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools. It's aimed to be a SOLID model, a general-purpose application framework and a project template. `Still using framework 4.5.2`
 * [The Magazine Website Sample](https://github.com/thangchung/magazine-website) - A website presents information about magazines. 
 
 ## Best Articles 
