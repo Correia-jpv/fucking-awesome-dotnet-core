@@ -26,6 +26,7 @@
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
   * [Graphics](#graphics)
+  * [Starter Kits and Sample Projects](#starter-kits-and-sample-projects)
   * [Best Articles](#best-articles)
   * 
 
@@ -102,6 +103,11 @@
 ## Graphics
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org)
 
+## Starter Kits and Sample Projects
+* [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
+* [cloudscribe](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
+* [The Magazine Website Sample](https://github.com/thangchung/magazine-website) - A website presents information about magazines. 
+
 ## Best Articles 
 
 * [.NET flatform standard](https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md) - The differrent between the old version and the nwe version of .NET.
@@ -111,7 +117,7 @@
 * [Entity Framework Core RC2 Announcement](https://blogs.msdn.microsoft.com/dotnet/2016/05/16/announcing-entity-framework-core-rc2/)
 * [The New Configuration Model in ASP.NET Core](http://developer.telerik.com/featured/new-configuration-model-asp-net-core/)
 * [A guide to the .NET Core projects on GitHub](https://blog.rendle.io/a-guide-to-the-net-projects-on-github/)
-* [The Magazine Website Sample](https://github.com/thangchung/magazine-website)
+
 
 # License
 
