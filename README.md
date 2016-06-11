@@ -106,6 +106,7 @@
 ## Starter Kits and Sample Projects
 * [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 * [cloudscribe](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
+* [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) - An ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
 * [The Magazine Website Sample](https://github.com/thangchung/magazine-website) - A website presents information about magazines. 
 
 ## Best Articles 
