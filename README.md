@@ -68,6 +68,8 @@
 ## Internationalization
 
 ## IOC
+* [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container.
+* [StructureMap](https://github.com/structuremap/structuremap.dnx) - A Dependency Injection/Inversion of Control tool for .NET.
 
 ## Logging
 * [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
@@ -105,6 +107,7 @@
 
 ## Starter Kits and Sample Projects
 * [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
+* [saaskit](https://github.com/saaskit/saaskit) - A developer toolkit for building SaaS applications.
 * [cloudscribe](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
 * [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) - An ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - An ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools. It's aimed to be a SOLID model, a general-purpose application framework and a project template. `Still using framework 4.5.2`
