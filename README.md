@@ -19,6 +19,7 @@
   * [Mail](#mail)
   * [Misc](#misc)
   * [ORM](#orm)
+  * [Reactive](#reactive)
   * [Queue](#queue)
   * [Serialization](#serialization)
   * [Testing](#testing)
@@ -86,6 +87,9 @@
 ## ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
 * [Dapper](https://github.com/StackExchange/dapper-dot-net/tree/netstandard) - A simple object mapper for .NET.
+
+## Reactive
+* [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
 
 ## Queue
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - A MicroBus is a simple in process mediator for .NET.
