@@ -84,6 +84,7 @@
 
 ## Misc
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
+* [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - A Microsoft Asp.Net server-side support and helpers for jQuery DataTables.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
