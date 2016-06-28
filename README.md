@@ -6,6 +6,7 @@
   * [Application Templates](#application-templates)
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Build Automation](#build-automation)
+  * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
   * [Cryptography](#cryptography)
   * [CMS](#cms)
@@ -49,6 +50,9 @@
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.
 
 ## Build Automation
+
+## Bundling and Minification
+* [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - A Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
 
 ## Caching
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
