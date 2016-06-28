@@ -66,8 +66,10 @@
 * [Platformus](https://github.com/Platformus) - A free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
 
 ## Code Analysis and Metrics
+* [OpenCover](https://github.com/OpenCover/opencover) - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points.
 
 ## Database Drivers
+* [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB. `only work for 4.5.x`
 
 ## E-Commerce and Payments
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A super simple ecommerce system built on .NET Core.
