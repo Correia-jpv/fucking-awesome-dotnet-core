@@ -13,6 +13,7 @@
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Database Drivers](#database-drivers)
   * [E-Commerce and Payments](#ecommerce-and-payments)
+  * [Graphics](#graphics)
   * [IDE](#ide)
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
@@ -28,7 +29,6 @@
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
-  * [Graphics](#graphics)
   * [Starter Kits and Sample Projects](#starter-kits-and-sample-projects)
   * [Best Articles](#best-articles)
   * 
@@ -76,6 +76,9 @@
 ## E-Commerce and Payments
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A super simple ecommerce system built on .NET Core.
 
+## Graphics
+* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org)
+
 ## IDE
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 * [Visual Studio Community](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - A free editor for individual developers, open source projects, academic research, education, and small professional teams.
@@ -96,6 +99,7 @@
 
 ## Misc
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
+* [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - A Microsoft Asp.Net server-side support and helpers for jQuery DataTables.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
@@ -113,6 +117,7 @@
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - A MicroBus is a simple in process mediator for .NET.
 
 ## Serialization
+* [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
 
 ## Searching
 * [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - A repository for both NEST and Elasticsearch.Net, the two official elasticsearch .NET clients.
@@ -130,9 +135,6 @@
 * [SignalR Server](https://github.com/aspnet/SignalR-Server) - A real-time web functionality for web apps, including server-side push.
 
 ## Windows Service
-
-## Graphics
-* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org)
 
 ## Starter Kits and Sample Projects
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - An opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
