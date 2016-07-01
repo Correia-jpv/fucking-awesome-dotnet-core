@@ -116,6 +116,7 @@
 * [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 * [moq.netcore](https://github.com/aspnet/moq4/tree/netcore) - A most popular and friendly mocking framework for .NET.
 * [SpecFlow](https://github.com/techtalk/SpecFlow) - A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio. `only works for 4.5.x`
+* [GenFu](https://github.com/MisterJames/GenFu) - A library you can use to generate realistic test data.
 
 ## Web Framework
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
