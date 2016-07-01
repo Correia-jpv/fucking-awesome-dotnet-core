@@ -23,6 +23,7 @@
   * [Reactive](#reactive)
   * [Queue](#queue)
   * [Serialization](#serialization)
+  * [Searching](#searching)
   * [Testing](#testing)
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
@@ -112,6 +113,9 @@
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - A MicroBus is a simple in process mediator for .NET.
 
 ## Serialization
+
+## Searching
+* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - A repository for both NEST and Elasticsearch.Net, the two official elasticsearch .NET clients.
 
 ## Testing
 * [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
