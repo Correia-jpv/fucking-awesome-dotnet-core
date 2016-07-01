@@ -39,6 +39,7 @@
 
 ## Application Frameworks
 * [ASP.NET MVC](https://github.com/aspnet/Mvc) - A model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
+* [Nancy](https://github.com/NancyFx/Nancy) - A lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono.
 * [ExtCore](https://github.com/ExtCore) - A Free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core 1.0.
 
 ## Application Templates
