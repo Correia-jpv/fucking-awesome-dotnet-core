@@ -29,6 +29,7 @@
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
+  * [Security](#security)
   * [Starter Kits and Sample Projects](#starter-kits-and-sample-projects)
   * [Best Articles](#best-articles)
   * 
@@ -89,6 +90,7 @@
 * [Omnisharp](http://www.omnisharp.net/) - a family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice.
 
 ## Internationalization
+* [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
 
 ## IOC
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container.
@@ -143,7 +145,11 @@
 
 ## Windows Service
 
+## Security
+* [Security](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
+
 ## Starter Kits and Sample Projects
+* [Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - An opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 * [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 * [DotNetClub](https://github.com/scheshan/DotNetClub) - A tiny club written in Asp.Net Core.
