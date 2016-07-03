@@ -113,6 +113,7 @@
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
 * [Microphone](https://github.com/rogeralsing/Microphone) - A lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
+* [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - A reCAPTCHA 2.0 for ASPNET Core.
 
 ## ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
