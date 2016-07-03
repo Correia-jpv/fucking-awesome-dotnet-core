@@ -106,6 +106,7 @@
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net/tree/dotnet-core) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
 ## Misc
+* [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - A Microsoft Asp.Net server-side support and helpers for jQuery DataTables.
@@ -118,6 +119,8 @@
 ## ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
 * [Dapper](https://github.com/StackExchange/dapper-dot-net/tree/netstandard) - A simple object mapper for .NET.
+ * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+ * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 
 ## Reactive
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
