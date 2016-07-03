@@ -60,6 +60,7 @@
 
 ## Bundling and Minification
 * [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - A Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
+* [Smidge](https://github.com/Shazwazza/Smidge/) - A lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.Net Core.
 
 ## Caching
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
