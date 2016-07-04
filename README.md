@@ -109,6 +109,7 @@
 
 ## Misc
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
+* [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - A Microsoft Asp.Net server-side support and helpers for jQuery DataTables.
