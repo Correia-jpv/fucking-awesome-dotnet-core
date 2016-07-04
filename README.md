@@ -25,6 +25,7 @@
   * [Queue](#queue)
   * [Serialization](#serialization)
   * [Searching](#searching)
+  * [Scheduler and Job](#scheduler-and-job)
   * [Testing](#testing)
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
@@ -93,6 +94,7 @@
 
 ## Internationalization
 * [Localization](https://github.com/aspnet/Localization) - Localization abstractions and implementations for ASP.NET Core applications.
+* [nodatime](https://github.com/nodatime/nodatime) - A better date and time API for .NET [http://nodatime.org](http://nodatime.org).
 
 ## IOC
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container.
@@ -106,15 +108,16 @@
 ## Mail
 * [MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net/tree/dotnet-core) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
+* [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 
 ## Misc
-* [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
+* [Castle.Core](https://github.com/castleproject/Core/tree/netcore) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
+* [CommonMark.NET](https://github.com/Knagis/CommonMark.NET) - An implementation of CommonMark specification in C# for converting Markdown documents to HTML.
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - A Microsoft Asp.Net server-side support and helpers for jQuery DataTables.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
-* [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
 * [Microphone](https://github.com/rogeralsing/Microphone) - A lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - A reCAPTCHA 2.0 for ASPNET Core.
 
@@ -123,6 +126,8 @@
 * [Dapper](https://github.com/StackExchange/dapper-dot-net/tree/netstandard) - A simple object mapper for .NET.
  * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
  * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
+* [yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
+* [NoDb](https://github.com/joeaudette/NoDb) - A "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
 
 ## Reactive
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
@@ -132,9 +137,15 @@
 
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
+* [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
 
 ## Searching
 * [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - A repository for both NEST and Elasticsearch.Net, the two official elasticsearch .NET clients.
+* [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
+ 
+## Scheduler and Job
+* [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
+* [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 
 ## Testing
 * [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
