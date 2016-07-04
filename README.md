@@ -57,6 +57,7 @@
 ## Build Automation
 * [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
 * [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
+* [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output! [http://colorfulconsole.com](http://colorfulconsole.com)
 
 ## Bundling and Minification
 * [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - A Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
