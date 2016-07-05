@@ -118,23 +118,23 @@
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 
 ## Misc
-* [Castle.Core](https://github.com/castleproject/Core/tree/netcore) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
-* [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
+* [Castle.Core](https://github.com/castleproject/Core/tree/netcore) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).
 * [CommonMark.NET](https://github.com/Knagis/CommonMark.NET) - An implementation of CommonMark specification in C# for converting Markdown documents to HTML.
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - A Microsoft Asp.Net server-side support and helpers for jQuery DataTables.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
-* [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
+* [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [Microphone](https://github.com/rogeralsing/Microphone) - A lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - A reCAPTCHA 2.0 for ASPNET Core.
+* [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
 
 ## ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
 * [Dapper](https://github.com/StackExchange/dapper-dot-net/tree/netstandard) - A simple object mapper for .NET.
  * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
  * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-* [yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
 * [NoDb](https://github.com/joeaudette/NoDb) - A "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+* [yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
 
 ## Profiling
 * [Glimpse](http://getglimpse.com) - A lightweight, open-source, real-time diagnostics and insights profiler for .NET. 
@@ -166,13 +166,14 @@
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
 
 ## Testing
-* [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+* [GenFu](https://github.com/MisterJames/GenFu) - A library you can use to generate realistic test data.
+* [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [moq.netcore](https://github.com/aspnet/moq4/tree/netcore) - A most popular and friendly mocking framework for .NET.
-* [SpecFlow](https://github.com/techtalk/SpecFlow) - A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio. `only works for 4.5.x`
 * [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - A fluent testing
   framework for ASP.NET Core MVC.
+* [SpecFlow](https://github.com/techtalk/SpecFlow) - A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio. `only works for 4.5.x`
 * [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy) - A BDDfy is the simplest BDD framework EVER!
-* [GenFu](https://github.com/MisterJames/GenFu) - A library you can use to generate realistic test data.
+* [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
 ## Web Framework
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
