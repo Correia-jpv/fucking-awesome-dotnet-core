@@ -21,6 +21,7 @@
   * [Mail](#mail)
   * [Misc](#misc)
   * [ORM](#orm)
+  * [Profiling](#profiling)
   * [Reactive](#reactive)
   * [Queue and Messaging](#queue-and-messaging)
   * [SDKs](#sdks)
@@ -129,6 +130,9 @@
  * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 * [yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
 * [NoDb](https://github.com/joeaudette/NoDb) - A "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+
+## Profiling
+* [Glimpse](http://getglimpse.com) - A lightweight, open-source, real-time diagnostics and insights profiler for .NET. 
 
 ## Reactive
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
