@@ -137,6 +137,7 @@
  * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 * [NoDb](https://github.com/joeaudette/NoDb) - A "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
 * [yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
+* [Limebean](https://nick-lucas.github.io/LimeBean/) - A Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP
 
 ## Profiling
 * [Glimpse](http://getglimpse.com) - A lightweight, open-source, real-time diagnostics and insights profiler for .NET. 
