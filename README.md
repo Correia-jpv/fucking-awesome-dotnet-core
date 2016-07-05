@@ -1,6 +1,6 @@
 # Awesome .NET Core Collection
 
-* [Awesome .NET Core](#awesome-dotnet-core)
+* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -24,18 +24,23 @@
   * [Profiling](#profiling)
   * [Reactive](#reactive)
   * [Queue and Messaging](#queue-and-messaging)
-  * [SDKs](#sdks)
-  * [Serialization](#serialization)
-  * [Searching](#searching)
   * [Scheduler and Job](#scheduler-and-job)
+  * [SDKs](#sdks)
+  * [Security](#security)
+  * [Searching](#searching)
+  * [Serialization](#serialization)
   * [Testing](#testing)
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
-  * [Security](#security)
-  * [Starter Kits and Sample Projects](#starter-kits-and-sample-projects)
-  * [Best Articles](#best-articles)
-  * 
+  
+---
+
+* [Starter Kits](#starter-kits)
+* [Sample Projects](#sample-projects)
+* [Best Articles](#best-articles)
+
+# Frameworks, Libraries and Tools
 
 ## API
 * [Swashbuckle](https://github.com/domaindrivendev/Ahoy) - Seamlessly adds a swagger to WebApi projects.
@@ -176,21 +181,24 @@
 * [SignalR Server](https://github.com/aspnet/SignalR-Server) - A real-time web functionality for web apps, including server-side push.
 
 ## Windows Service
+*
+---
 
-## Starter Kits and Sample Projects
-* [Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
+# Starter Kits
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - An opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
-* [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
-* [DotNetClub](https://github.com/scheshan/DotNetClub) - A tiny club written in Asp.Net Core.
-* [AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext) - West Wind Album Viewer ASP.NET 5 Sample.
-* [saaskit](https://github.com/saaskit/saaskit) - A developer toolkit for building SaaS applications.
-* [cloudscribe](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
-* [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) - An ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - An ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools. It's aimed to be a SOLID model, a general-purpose application framework and a project template. `Still using framework 4.5.2`
-* [A Magazine Website Sample](https://github.com/thangchung/magazine-website) - A magazine website (using dotnetcore, aspnetcore, efcore) with DDD, CQRS, microservices, asynchronous programming applied. 
+* [saaskit](https://github.com/saaskit/saaskit) - A developer toolkit for building SaaS applications.
 
-## Best Articles 
+# Sample Projects
+* [AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext) - West Wind Album Viewer ASP.NET 5 Sample.
+* [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) - An ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
+* [cloudscribe](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
+* [DotNetClub](https://github.com/scheshan/DotNetClub) - A tiny club written in Asp.Net Core.
+* [Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
+* [magazine-website](https://github.com/thangchung/magazine-website) - A magazine website (using dotnetcore, aspnetcore, efcore) with DDD, CQRS, microservices, asynchronous programming applied.
+* [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 
+# Best Articles 
 * [.NET platform standard](https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md) - The differrent between the old version and the new version of .NET.
 * [A guide to the .NET Core projects on GitHub](https://blog.rendle.io/a-guide-to-the-net-projects-on-github/)
 * [haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](http://tattoocoder.azurewebsites.net/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/) - Really awesome article that using .NET Core and some of libraries like HAProxy, NGINX, Redis for the large scale infrastruture. 
