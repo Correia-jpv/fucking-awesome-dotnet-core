@@ -23,6 +23,7 @@
   * [ORM](#orm)
   * [Reactive](#reactive)
   * [Queue and Messaging](#queue-and-messaging)
+  * [SDKs](#sdks)
   * [Serialization](#serialization)
   * [Searching](#searching)
   * [Scheduler and Job](#scheduler-and-job)
@@ -136,8 +137,12 @@
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET
 
+## SDKs
+* [octokit.net](https://github.com/octokit/octokit.net/tree/target-the-coreclr) - A GitHub API client library for .NET.
+
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
+* [protobuf-net](https://github.com/mgravell/protobuf-net/tree/core-clr-rtm) - A Protocol Buffers library for idiomatic .NET.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
 
 ## Searching
@@ -146,6 +151,7 @@
  
 ## Scheduler and Job
 * [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
+* [quartznet](https://github.com/quartznet/quartznet/tree/quartznet-3) - A Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net)
 
 ## Testing
 * [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
