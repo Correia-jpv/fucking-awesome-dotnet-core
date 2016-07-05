@@ -141,21 +141,24 @@
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET
 
+## Scheduler and Job
+* [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
+* [quartznet](https://github.com/quartznet/quartznet/tree/quartznet-3) - A Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net)
+
 ## SDKs
 * [octokit.net](https://github.com/octokit/octokit.net/tree/target-the-coreclr) - A GitHub API client library for .NET.
+
+## Security
+* [Security](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
+
+## Searching
+* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - A repository for both NEST and Elasticsearch.Net, the two official elasticsearch .NET clients.
+* [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
 
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
 * [protobuf-net](https://github.com/mgravell/protobuf-net/tree/core-clr-rtm) - A Protocol Buffers library for idiomatic .NET.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
-
-## Searching
-* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - A repository for both NEST and Elasticsearch.Net, the two official elasticsearch .NET clients.
-* [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
- 
-## Scheduler and Job
-* [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
-* [quartznet](https://github.com/quartznet/quartznet/tree/quartznet-3) - A Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net)
 
 ## Testing
 * [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
@@ -163,6 +166,7 @@
 * [SpecFlow](https://github.com/techtalk/SpecFlow) - A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio. `only works for 4.5.x`
 * [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - A fluent testing
   framework for ASP.NET Core MVC.
+* [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy) - A BDDfy is the simplest BDD framework EVER!
 * [GenFu](https://github.com/MisterJames/GenFu) - A library you can use to generate realistic test data.
 
 ## Web Framework
@@ -172,9 +176,6 @@
 * [SignalR Server](https://github.com/aspnet/SignalR-Server) - A real-time web functionality for web apps, including server-side push.
 
 ## Windows Service
-
-## Security
-* [Security](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
 
 ## Starter Kits and Sample Projects
 * [Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
