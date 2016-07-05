@@ -22,7 +22,7 @@
   * [Misc](#misc)
   * [ORM](#orm)
   * [Reactive](#reactive)
-  * [Queue](#queue)
+  * [Queue and Messaging](#queue-and-messaging)
   * [Serialization](#serialization)
   * [Searching](#searching)
   * [Scheduler and Job](#scheduler-and-job)
@@ -132,7 +132,8 @@
 ## Reactive
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
 
-## Queue
+## Queue and Messaging
+* [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET
 
 ## Serialization
@@ -145,7 +146,6 @@
  
 ## Scheduler and Job
 * [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
-* [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 
 ## Testing
 * [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
