@@ -33,9 +33,6 @@
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
-  
----
-
 * [Starter Kits](#starter-kits)
 * [Sample Projects](#sample-projects)
 * [Best Articles](#best-articles)
@@ -187,8 +184,6 @@
 
 ## Windows Service
 * 
-
----
 
 # Starter Kits
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - An opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
