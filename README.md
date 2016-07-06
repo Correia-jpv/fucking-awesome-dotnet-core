@@ -134,7 +134,7 @@
  * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 * [NoDb](https://github.com/joeaudette/NoDb) - A "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
 * [yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
-* [Limebean](https://nick-lucas.github.io/LimeBean/) - A Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP
+* [Limebean](https://nick-lucas.github.io/LimeBean/) - A Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP.
 
 ## Profiling
 * [Glimpse](http://getglimpse.com) - A lightweight, open-source, real-time diagnostics and insights profiler for .NET. 
@@ -144,7 +144,8 @@
 
 ## Queue and Messaging
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
-* [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET
+* [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET.
+* [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client [https://www.rabbitmq.com](https://www.rabbitmq.com).
 
 ## Scheduler and Job
 * [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
