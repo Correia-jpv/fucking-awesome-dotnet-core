@@ -150,6 +150,7 @@
 ## Scheduler and Job
 * [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [quartznet](https://github.com/quartznet/quartznet/tree/quartznet-3) - A Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net)
+* [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - A lightweight robust library for running tasks(jobs) on schedules. 
 
 ## SDKs
 * [octokit.net](https://github.com/octokit/octokit.net/tree/target-the-coreclr) - A GitHub API client library for .NET.
