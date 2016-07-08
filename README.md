@@ -69,6 +69,7 @@
 * [Smidge](https://github.com/Shazwazza/Smidge/) - A lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.Net Core.
 
 ## Caching
+* [CacheManager](https://github.com/MichaCo/CacheManager) - an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. [http://cachemanager.net](http://cachemanager.net)
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - A high performance general purpose redis client for .NET languages (C# etc).
 
