@@ -166,7 +166,7 @@
 
 ## Serialization
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
-* [protobuf-net](https://github.com/mgravell/protobuf-net/tree/core-clr-rtm) - A Protocol Buffers library for idiomatic .NET.
+* [protobuf-net](https://github.com/mgravell/protobuf-net/) - A Protocol Buffers library for idiomatic .NET.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
 
 ## Testing
