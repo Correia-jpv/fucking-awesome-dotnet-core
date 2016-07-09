@@ -201,6 +201,7 @@
 * [Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
 * [magazine-website](https://github.com/thangchung/magazine-website) - A magazine website (using dotnetcore, aspnetcore, efcore) with DDD, CQRS, microservices, asynchronous programming applied.
 * [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
+* [ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - A real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
 
 # Best Articles 
 * [.NET platform standard](https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md) - The differrent between the old version and the new version of .NET.
