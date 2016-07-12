@@ -86,6 +86,7 @@
 
 ## Database Drivers
 * [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB. `only work for 4.5.x`
+* [Neo4jClient](https://github.com/Readify/Neo4jClient/tree/DotNetCore) - A .NET client binding for Neo4j.
 * [npgsql](https://github.com/npgsql/npgsql) - A .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - A linq enabled document database for .NET.
 * [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver with 100% ReQL API coverage.
@@ -126,6 +127,7 @@
 * [Castle.Core](https://github.com/castleproject/Core/tree/netcore) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).
 * [CommonMark.NET](https://github.com/Knagis/CommonMark.NET) - An implementation of CommonMark specification in C# for converting Markdown documents to HTML.
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - A Microsoft Asp.Net server-side support and helpers for jQuery DataTables.
+* [Docker.DotNet](https://github.com/Microsoft/Docker.DotNet) - A .NET (C#) Client Library for Docker API.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [Microphone](https://github.com/rogeralsing/Microphone) - A lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
@@ -176,6 +178,7 @@
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
 
 ## Testing
+* [Bogus](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 * [GenFu](https://github.com/MisterJames/GenFu) - A library you can use to generate realistic test data.
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [moq.netcore](https://github.com/aspnet/moq4/tree/netcore) - A most popular and friendly mocking framework for .NET.
