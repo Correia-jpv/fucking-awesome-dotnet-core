@@ -40,6 +40,7 @@
 # Frameworks, Libraries and Tools
 
 ## API
+* [autorest](https://github.com/Azure/autorest) - A Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `only works for 4.5.1`
 * [Swashbuckle](https://github.com/domaindrivendev/Ahoy) - Seamlessly adds a swagger to WebApi projects.
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - A collection of open source projects, add-ons and extensions to help improve your work with ASP.NET Core and ASP.NET Core MVC.
 * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET core based on [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js)
@@ -85,6 +86,7 @@
 
 ## Database Drivers
 * [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB. `only work for 4.5.x`
+* [npgsql](https://github.com/npgsql/npgsql) - A .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - A linq enabled document database for .NET.
 * [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver with 100% ReQL API coverage.
 
@@ -109,6 +111,7 @@
 * [StructureMap](https://github.com/structuremap/structuremap.dnx) - A Dependency Injection/Inversion of Control tool for .NET.
 
 ## Logging
+* [common-logging](https://github.com/net-commons/common-logging) - A portable logging abstraction for .NET [http://net-commons.github.io/common-logging](http://net-commons.github.io/common-logging)
 * [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
 * [NLog](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging.
 * [Q42.Logging.ApplicationInsights](https://github.com/Q42/Q42.Logging.ApplicationInsights) - Log appender for the build in ASP.Net Core logging to send all logs to Application Insights.
@@ -148,6 +151,7 @@
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET.
 * [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client [https://www.rabbitmq.com](https://www.rabbitmq.com).
+* [netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET.
 
 ## Scheduler and Job
 * [HangfireIO](https://github.com/HangfireIO/Hangfire/tree/netcore) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
@@ -166,6 +170,7 @@
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 
 ## Serialization
+* [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library to help reading and writing CSV files [http://csvhelper.com](http://csvhelper.com).
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
 * [protobuf-net](https://github.com/mgravell/protobuf-net/) - A Protocol Buffers library for idiomatic .NET.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
