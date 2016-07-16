@@ -162,6 +162,7 @@
 * [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - A lightweight robust library for running tasks(jobs) on schedules. 
 
 ## SDKs
+* [NetTelegramBotApi](https://github.com/justdmitry/NetTelegramBotApi) - A C# client library for building Telegram bot [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api).
 * [octokit.net](https://github.com/octokit/octokit.net/tree/target-the-coreclr) - A GitHub API client library for .NET.
 
 ## Security
