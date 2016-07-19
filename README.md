@@ -108,6 +108,8 @@
 
 ## IOC
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container.
+* [DryIoc](https://bitbucket.org/dadhi/dryioc) - A fast, small, full-featured IoC Container for .NET.
+* [LightInject](https://github.com/seesharper/LightInject) - An ultra lightweight IoC container [http://www.lightinject.net](http://www.lightinject.net).
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) - An easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success.
 * [StructureMap](https://github.com/structuremap/structuremap.dnx) - A Dependency Injection/Inversion of Control tool for .NET.
 
