@@ -132,10 +132,10 @@
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerfull, CommonMark compliant, extensible Markdown processor for .NET.
 * [Microphone](https://github.com/rogeralsing/Microphone) - A lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.
+* [NReco.LambdaParser](https://github.com/nreco/lambdaparser) - A parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated. 
+* [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData/) - An in-memory data cube with OLAP operations and PivotTable data model.
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - A reCAPTCHA 2.0 for ASPNET Core.
 * [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
-* [NReco.LambdaParser](https://github.com/nreco/lambdaparser) - parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated. 
-* [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData/) - in-memory data cube with OLAP operations and PivotTable data model.
 
 ## ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
@@ -143,9 +143,9 @@
  * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
  * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 * [NoDb](https://github.com/joeaudette/NoDb) - A "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+* [NReco.Data](https://github.com/nreco/data) - A lightweight provider-independent DAL for SQL commands generation, CRUD operations and simple POCO mapping.
 * [yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS.
 * [Limebean](https://nick-lucas.github.io/LimeBean/) - A Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP.
-* [NReco.Data](https://github.com/nreco/data) - lightweight provider-independent DAL for SQL commands generation, CRUD operations and simple POCO mapping.
 
 ## Profiling
 * [Glimpse](http://getglimpse.com) - A lightweight, open-source, real-time diagnostics and insights profiler for .NET. 
