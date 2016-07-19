@@ -136,6 +136,7 @@
 * [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData/) - An in-memory data cube with OLAP operations and PivotTable data model.
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - A reCAPTCHA 2.0 for ASPNET Core.
 * [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
+* [Scrutor](https://github.com/khellang/Scrutor) - An assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
 ## ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - A familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
