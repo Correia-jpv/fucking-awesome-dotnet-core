@@ -233,6 +233,7 @@
 * [Authentication in ASP.NET Core](https://stormpath.com/blog/authentication-asp-net-core)
 * [A walk-through for an ASP.NET Authorization Lab](https://github.com/blowdart/AspNetAuthorizationWorkshop)
 * [A very good example about EF Core](https://github.com/rowanmiller/Demo-EFCore)
+* [Adding Travis CI builds to a .NET Core app](http://andrewlock.net/adding-travis-ci-to-a-net-core-app/)
 
 # License
 
