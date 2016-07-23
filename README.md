@@ -14,6 +14,7 @@
   * [Database Drivers](#database-drivers)
   * [E-Commerce and Payments](#ecommerce-and-payments)
   * [Graphics](#graphics)
+  * [Functional Reactive Programming](#functional-reactive-programming)
   * [IDE](#ide)
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
@@ -22,7 +23,6 @@
   * [Misc](#misc)
   * [ORM](#orm)
   * [Profiling](#profiling)
-  * [Reactive](#reactive)
   * [Queue and Messaging](#queue-and-messaging)
   * [Scheduler and Job](#scheduler-and-job)
   * [SDKs](#sdks)
@@ -85,7 +85,7 @@
 * [OpenCover](https://github.com/OpenCover/opencover) - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points.
 
 ## Database Drivers
-* [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB. `only work for 4.5.x`
+* [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB. `only works for 4.5.x`
 * [Neo4jClient](https://github.com/Readify/Neo4jClient/tree/DotNetCore) - A .NET client binding for Neo4j.
 * [npgsql](https://github.com/npgsql/npgsql) - A .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - A linq enabled document database for .NET.
@@ -96,6 +96,10 @@
 
 ## Graphics
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org)
+
+## Functional Reactive Programming
+* [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
+* [sodium](https://github.com/SodiumFRP/sodium/tree/master/c%23) - A Functional Reactive Programming (FRP) Library. `only works for 4.5.x`
 
 ## IDE
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
@@ -152,9 +156,6 @@
 
 ## Profiling
 * [Glimpse](http://getglimpse.com) - A lightweight, open-source, real-time diagnostics and insights profiler for .NET. 
-
-## Reactive
-* [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
 
 ## Queue and Messaging
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
