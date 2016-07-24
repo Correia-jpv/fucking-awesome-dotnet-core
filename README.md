@@ -61,9 +61,10 @@
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.
 
 ## Build Automation
-* [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
-* [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
+* [cake-build](https://github.com/cake-build/cake) - A cross platform build automation system. [http://cakebuild.net](http://cakebuild.net)
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output! [http://colorfulconsole.com](http://colorfulconsole.com)
+* [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
+* [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
 
 ## Bundling and Minification
 * [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - A Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
