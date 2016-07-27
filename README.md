@@ -198,7 +198,7 @@
 * [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - A fluent testing
   framework for ASP.NET Core MVC.
 * [nunit](https://github.com/nunit/dotnet-test-nunit) - A NUnit test runner for .NET Core.
-* [SpecFlow](https://github.com/techtalk/SpecFlow) - A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio. `only works for 4.5.x`
+* [SpecFlow](https://github.com/techtalk/SpecFlow/tree/DotNetCore) - A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 * [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy) - A BDDfy is the simplest BDD framework EVER!
 * [xunit](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
