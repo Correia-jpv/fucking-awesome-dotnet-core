@@ -162,6 +162,7 @@
 
 ## Queue and Messaging
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
+ * [MediatR.Extensions.Microsoft.DependencyInjection](https://github.com/jbogard/MediatR.Extensions.Microsoft.DependencyInjection) - A MediatR extensions for Microsoft.Extensions.DependencyInjection.
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process mediator for .NET.
 * [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client [https://www.rabbitmq.com](https://www.rabbitmq.com).
 * [netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET.
