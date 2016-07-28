@@ -189,6 +189,7 @@
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library to help reading and writing CSV files [http://csvhelper.com](http://csvhelper.com).
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
 * [protobuf-net](https://github.com/mgravell/protobuf-net/) - A Protocol Buffers library for idiomatic .NET.
+* [TinyCsvParser](https://github.com/bytefish/TinyCsvParser) - An easy to use, easy to extend and high-performance library for CSV parsing with .NET.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - A .NET library for YAML.
 
 ## Testing
