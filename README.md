@@ -233,6 +233,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [DotNetClub](https://github.com/scheshan/DotNetClub) - A tiny club written in Asp.Net Core.
 * [Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
 * [magazine-website](https://github.com/thangchung/magazine-website) - A magazine website (using dotnetcore, aspnetcore, efcore) with DDD, CQRS, microservices, asynchronous programming applied.
+* [MegaMine](https://github.com/Nootus/MegaMine) - An Open source mining solution that helps miners in extracting Gold, Quartz, Granite etc. This solution is built using ASP.NET Core and AngularJS utilizing multiple light weight components in a Microservices way.
 * [minicompiler](Minification, bundling and compiling sample) - Minification, bundling and compiling sample.
 * [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 * [ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - A real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
