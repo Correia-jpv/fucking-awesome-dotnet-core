@@ -41,6 +41,7 @@
 
 ## API
 * [autorest](https://github.com/Azure/autorest) - A Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `only works for 4.5.1`
+* [LightNode](https://github.com/neuecc/LightNode) - A Micro RPC/REST Framework built on OWIN [http://neuecc.github.io/LightNode](http://neuecc.github.io/LightNode).
 * [Swashbuckle](https://github.com/domaindrivendev/Ahoy) - Seamlessly adds a swagger to WebApi projects.
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - A collection of open source projects, add-ons and extensions to help improve your work with ASP.NET Core and ASP.NET Core MVC.
 * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET core based on [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js)
