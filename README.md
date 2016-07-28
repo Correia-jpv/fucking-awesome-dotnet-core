@@ -12,7 +12,7 @@
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Database Drivers](#database-drivers)
-  * [E-Commerce and Payments](#ecommerce-and-payments)
+  * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Graphics](#graphics)
   * [Functional Reactive Programming](#functional-reactive-programming)
   * [IDE](#ide)
