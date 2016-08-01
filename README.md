@@ -222,7 +222,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](http://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ## Windows Service
-* 
+* [Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
 # Starter Kits
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - An opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
