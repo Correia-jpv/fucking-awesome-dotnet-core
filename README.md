@@ -96,6 +96,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [OpenCover](https://github.com/OpenCover/opencover) - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points.
 
 ## Database Drivers
+* [LiteDB](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - [www.litedb.org](www.litedb.org). `work around to work for dotnetcore at` [#219](https://github.com/mbdavid/LiteDB/issues/219)
 * [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) - .NET Driver for MongoDB. `only works for 4.5.x`
 * [Neo4jClient](https://github.com/Readify/Neo4jClient/tree/DotNetCore) - A .NET client binding for Neo4j.
 * [npgsql](https://github.com/npgsql/npgsql) - A .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
