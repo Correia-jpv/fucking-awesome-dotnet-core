@@ -53,7 +53,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Swashbuckle](https://github.com/domaindrivendev/Ahoy) - Seamlessly adds a swagger to WebApi projects.
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - A collection of open source projects, add-ons and extensions to help improve your work with ASP.NET Core and ASP.NET Core MVC.
 * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET core based on [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js)
-* [Restier](https://github.com/OData/RESTier) - RESTful API development framework for building standardized, OData V4 based RESTful services on .NET platform
 
 ## Application Frameworks
 * [ASP.NET MVC](https://github.com/aspnet/Mvc) - A model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
