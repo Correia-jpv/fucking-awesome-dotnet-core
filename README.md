@@ -73,6 +73,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ## Build Automation
 * [cake-build](https://github.com/cake-build/cake) - A cross platform build automation system. [http://cakebuild.net](http://cakebuild.net)
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output! [http://colorfulconsole.com](http://colorfulconsole.com)
+* [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - A Go wrapper for the .NET Core Runtime.
 * [msbuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
 * [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
 
