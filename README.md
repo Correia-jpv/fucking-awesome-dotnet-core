@@ -48,7 +48,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 # Frameworks, Libraries and Tools
 
 ## API
-* [autorest](https://github.com/Azure/autorest) - A Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `only works for 4.5.1`
+* [autorest](https://github.com/Azure/autorest) - A Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `only works for 4.5.x`
 * [LightNode](https://github.com/neuecc/LightNode) - A Micro RPC/REST Framework built on OWIN [http://neuecc.github.io/LightNode](http://neuecc.github.io/LightNode).
 * [Swashbuckle](https://github.com/domaindrivendev/Ahoy) - Seamlessly adds a swagger to WebApi projects.
 * [WebAPIContrib for ASP.NET CORE](https://github.com/WebApiContrib/WebAPIContrib.Core) - A collection of open source projects, add-ons and extensions to help improve your work with ASP.NET Core and ASP.NET Core MVC.
@@ -224,7 +224,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](http://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ## Windows Service
-* [Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
+* [Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET. `only works for 4.5.x`
 
 # Starter Kits
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - An opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
