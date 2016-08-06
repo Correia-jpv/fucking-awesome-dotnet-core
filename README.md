@@ -49,7 +49,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 # General
 
 * [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub](https://github.com/dotnet/core). 
-* [.NET Core Documentation](https://docs.microsoft.com/zh-tw/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
+* [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
 * [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - official ASP.NET Core documentation.
 
 # Frameworks, Libraries and Tools
