@@ -100,6 +100,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ## CMS
 * [OrchardCMS2](https://github.com/OrchardCMS/Orchard2) - An implementation of Orchard CMS in ASP.NET Core (also known as DNX).
 * [Platformus](https://github.com/Platformus) - A free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
+* [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) - A simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database.
 
 ## Code Analysis and Metrics
 * [OpenCover](https://github.com/OpenCover/opencover) - A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points.
