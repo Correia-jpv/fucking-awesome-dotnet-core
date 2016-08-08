@@ -8,7 +8,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
+* [General](#general)
+* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)  
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -44,6 +45,12 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Starter Kits](#starter-kits)
 * [Sample Projects](#sample-projects)
 * [Best Articles](#best-articles)
+
+# General
+
+* [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub](https://github.com/dotnet/core). 
+* [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
+* [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - official ASP.NET Core documentation.
 
 # Frameworks, Libraries and Tools
 
