@@ -210,6 +210,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ## Serialization
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library to help reading and writing CSV files [http://csvhelper.com](http://csvhelper.com).
+* [msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - A popular high-performance JSON framework for .NET.
 * [protobuf-net](https://github.com/mgravell/protobuf-net/) - A Protocol Buffers library for idiomatic .NET.
 * [TinyCsvParser](https://github.com/bytefish/TinyCsvParser) - An easy to use, easy to extend and high-performance library for CSV parsing with .NET.
