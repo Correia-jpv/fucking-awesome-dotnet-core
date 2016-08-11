@@ -200,6 +200,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [octokit.net](https://github.com/octokit/octokit.net/tree/target-the-coreclr) - A GitHub API client library for .NET.
 
 ## Security
+* [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 * [Security](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
 
 ## Searching
