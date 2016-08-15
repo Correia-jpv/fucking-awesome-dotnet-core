@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [GenFu](https://github.com/MisterJames/GenFu) - A library you can use to generate realistic test data.
 * [FluentAssertions](https://github.com/dennisdoomen/FluentAssertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 * [moq.netcore](https://github.com/aspnet/moq4/tree/netcore) - A most popular and friendly mocking framework for .NET.
+* [MSpec](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests
 * [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - A fluent testing
   framework for ASP.NET Core MVC.
 * [Netling](https://github.com/hallatore/Netling) - Netling is a load tester client for easy web testing.
