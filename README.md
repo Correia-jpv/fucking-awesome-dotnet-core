@@ -207,6 +207,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - A repository for both NEST and Elasticsearch.Net, the two official elasticsearch .NET clients.
 * [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
+* [SolrExpress](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way.
 
 ## Serialization
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - A library to help reading and writing CSV files [http://csvhelper.com](http://csvhelper.com).
