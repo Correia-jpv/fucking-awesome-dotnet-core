@@ -41,6 +41,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Searching](#searching)
   * [Serialization](#serialization)
   * [Testing](#testing)
+  * [Tools](#tools)
   * [Web Framework](#web-framework)
   * [Web Socket](#web-socket)
   * [Windows Service](#windows-service)
@@ -232,6 +233,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [SpecFlow](https://github.com/techtalk/SpecFlow/tree/DotNetCore) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 * [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy) - The simplest BDD framework EVER!
 * [xunit](https://github.com/xunit/xunit) - Free, open source, community-focused unit testing tool for the .NET Framework.
+
+## Tools
+* [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project [https://www.gitignore.io](https://www.gitignore.io).
 
 ## Web Framework
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
