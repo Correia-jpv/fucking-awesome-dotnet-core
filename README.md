@@ -261,6 +261,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [allReady](https://github.com/HTBox/allReady) - Open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities. [http://www.htbox.org/projects/allready](http://www.htbox.org/projects/allready)
 * [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) - ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
 * [cloudscribe](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
+* [distributed-playground](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
 * [DotNetClub](https://github.com/scheshan/DotNetClub) - Tiny club written in Asp.Net Core.
 * [Entropy](https://github.com/aspnet/Entropy) - Chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
 * [magazine-website](https://github.com/thangchung/magazine-website) - Magazine website (using dotnetcore, aspnetcore, efcore) with DDD, CQRS, microservices, asynchronous programming applied.
