@@ -31,6 +31,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [IOC](#ioc)
   * [Logging](#logging)
   * [Mail](#mail)
+  * [Mathematics](#mathematics)
   * [Misc](#misc)
   * [ORM](#orm)
   * [Profiling](#profiling)
@@ -156,6 +157,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [MailKit](https://github.com/jstedfast/MailKit) - Cross-platform .NET library for IMAP, POP3, and SMTP.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net/tree/dotnet-core) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - Cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
+
+### Mathematics
+* [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .Net Core and .Net Framework
 
 ### Misc
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - Convention-based object-object mapper in .NET.
