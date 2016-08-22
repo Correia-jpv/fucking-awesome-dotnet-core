@@ -106,6 +106,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Cryptography
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
+* [BCrypt.Net-Core](https://github.com/neoKushan/BCrypt.Net-Core) - A .net Core port of BCrypt.net used to store passwords.
 
 ### CMS
 * [OrchardCMS2](https://github.com/OrchardCMS/Orchard2) - The implementation of Orchard CMS in ASP.NET Core (also known as DNX).
