@@ -105,7 +105,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
 
 ### Cryptography
-* [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) - .NET Core port of BCrypt.net used to store passwords securely.
+* [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) - .NET Core port of BCrypt.NET used to store passwords securely.
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 
 ### CMS
@@ -286,7 +286,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ## Articles 
 
-* [Porting a .Net Framework Library to .Net Core](http://www.michael-whelan.net/porting-dotnet-framework-library-to-dotnet-core) 
+* [Porting .NET Framework Library to .NET Core](http://www.michael-whelan.net/porting-dotnet-framework-library-to-dotnet-core) 
 * [A guide to the .NET Core projects on GitHub](https://blog.rendle.io/a-guide-to-the-net-projects-on-github/)
 * [haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](http://tattoocoder.azurewebsites.net/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/) - Really awesome article that using .NET Core and some of libraries like HAProxy, NGINX, Redis for the large scale infrastruture. 
 * [.NET Continuous Delivery Microservices](http://stackshare.io/tomstaijen/net-continuous-delivery-microservices)
@@ -307,7 +307,15 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * 
 
 ## Community
-* 
+* [ASP.NET](https://forums.asp.net)
+* [.NET Foundation](http://forums.dotnetfoundation.org)
+* Stack Overflow
+ *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
+ *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)
+ *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
+ *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
+ *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
+ *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
 
 ## License
 
