@@ -298,17 +298,27 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Adding Travis CI builds to a .NET Core app](http://andrewlock.net/adding-travis-ci-to-a-net-core-app/)
 
 ## Books
-* 
+* [ASP.NET Core Application Development: Building an application in four sprints (Developer Reference)](https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061)
+* [ASP.NET Core 1.0 High Performance](https://www.amazon.com/ASP-NET-Core-1-0-High-Performance/dp/1785881892)
+* [Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732)
+* [C# 6 and .NET Core 1.0: Modern Cross-Platform Development](https://www.amazon.com/NET-Core-1-0-Cross-Platform-Development/dp/1785285696)
+* [Microservices in .NET Core: with C#, the Nancy framework, and OWIN middleware](https://www.amazon.com/Microservices-NET-Core-framework-middleware/dp/1617293377)
+* [Professional C# 6 and .NET Core 1.0](https://www.amazon.com/Professional-NET-Core-Christian-Nagel/dp/111909660X)
 
 ## Videos
-* 
+* [Channel9](https://channel9.msdn.com)
+* [Visual Studio](https://www.youtube.com/user/VisualStudio/channels)
+* [.NET World](https://www.youtube.com/channel/UClW5uIyHKPhfSEloQxn7b0Q)
 
 ## Podcasts
-* 
+* [.NET Rocks](https://www.dotnetrocks.com)
+* [Static Void Podcast](https://www.staticvoidpodcast.com)
+* [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
 ## Community
 * [ASP.NET](https://forums.asp.net)
 * [.NET Foundation](http://forums.dotnetfoundation.org)
+* [Channel9](https://channel9.msdn.com/Forums)
 * Stack Overflow
  *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
  *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)
