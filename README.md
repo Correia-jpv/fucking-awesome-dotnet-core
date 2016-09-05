@@ -131,6 +131,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - Cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org)
 
 ### Functional Reactive Programming
+* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
 * [sodium](https://github.com/SodiumFRP/sodium/tree/master/c%23) - Functional Reactive Programming (FRP) Library. `only works for 4.5.x`
 
