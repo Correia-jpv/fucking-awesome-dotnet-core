@@ -237,6 +237,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [SolrExpress](https://github.com/solr-express/solr-express) - Simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way.
 
 ### Serialization
+* [Channels](https://github.com/davidfowl/Channels) - Push based .NET Streams.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [http://csvhelper.com](http://csvhelper.com).
 * [msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET.
