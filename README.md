@@ -211,6 +211,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - Simple in process mediator for .NET.
 * [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client [https://www.rabbitmq.com](https://www.rabbitmq.com).
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
+* [Restbus](http://restbus.org) - Messaging library for RabbitMq.
 * [netmq](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
 
 ### Scheduler and Job
