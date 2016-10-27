@@ -223,9 +223,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [netmq](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
 
 ### Scheduler and Job
+* [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules. 
 * [HangfireIO](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [quartznet](https://github.com/quartznet/quartznet/tree/quartznet-3) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net)
-* [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules. 
+* [stateless](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### SDKs
 * [NetTelegramBotApi](https://github.com/justdmitry/NetTelegramBotApi) - C# client library for building Telegram bot [https://core.telegram.org/bots/api](https://core.telegram.org/bots/api).
