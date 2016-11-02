@@ -140,6 +140,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### E-Commerce and Payments
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
+* [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.
 
 ### Graphics
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - Cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org)
