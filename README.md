@@ -20,9 +20,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
   * [Cryptography](#cryptography)
-  * [CMS](#cms)
+  * [CMS](#cms)  
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Database Drivers](#database-drivers)
+  * [Data Management Systems] (#data-management-systems)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Graphics](#graphics)
   * [Functional Reactive Programming](#functional-reactive-programming)
@@ -137,6 +138,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [npgsql](https://github.com/npgsql/npgsql) - .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - Linq enabled document database for .NET.
 * [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - C#/.NET RethinkDB driver with 100% ReQL API coverage.
+
+### Data Management Systems
+
+* [Scaffolder](https://github.com/dncuug/scaffolder) - lets you create extensible data-driven Web applications by automatically generated UI for each table in the database and  lets create a applications for viewing and editing data based on the schema of the data. 
 
 ### E-Commerce and Payments
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
