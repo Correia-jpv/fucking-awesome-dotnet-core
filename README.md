@@ -233,6 +233,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
 * [netmq](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
+* [emitter](https://emitter.io/) - Emitter is a free open source real-time messaging service that connects all devices. This publish-subscribe messaging API is built for speed and security.
 
 ### Scheduler and Job
 * [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules. 
