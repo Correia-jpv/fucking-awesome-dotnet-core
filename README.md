@@ -347,6 +347,8 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * Entity Framework Core 
   * [.NET Core Data Access](https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/)
   * [A very good example about EF Core](https://github.com/rowanmiller/Demo-EFCore)
+* Miraculous
+  * [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 * Security
   * [.NET Continuous Delivery Microservices](http://stackshare.io/tomstaijen/net-continuous-delivery-microservices)
   * [A walk-through for an ASP.NET Authorization Lab](https://github.com/blowdart/AspNetAuthorizationWorkshop)
