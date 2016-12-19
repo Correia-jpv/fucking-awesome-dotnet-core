@@ -291,6 +291,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [xunit](https://github.com/xunit/xunit) - Free, open source, community-focused unit testing tool for the .NET Framework.
 
 ### Tools
+* [docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects [http://dotnet.github.io/docfx](http://dotnet.github.io/docfx)
 * [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project [https://www.gitignore.io](https://www.gitignore.io).
 * [GitInfo](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
