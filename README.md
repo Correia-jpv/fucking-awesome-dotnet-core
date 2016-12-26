@@ -115,7 +115,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
 
 ### Command Line
-* [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Lightweight declarative CLI argument parser for all modern .Net platforms. Supports .Net Standard 1.6+
+* [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Lightweight declarative CLI argument parser for all modern .Net platforms.
 
 ### Cryptography
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) - .NET Core port of BCrypt.NET used to store passwords securely.
