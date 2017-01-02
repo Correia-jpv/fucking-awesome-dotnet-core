@@ -79,6 +79,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [parser](https://github.com/graphql-dotnet/parser) - A lexer and parser for GraphQL in .NET.
 
 ### Application Frameworks
+* [akka.net](https://github.com/akkadotnet/akka.net/tree/netcore) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono. `Stable version only works for 4.5.x, but development version is available for .NET Core 1.0`
 * [ASP.NET MVC](https://github.com/aspnet/Mvc) - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
 * [ExtCore](https://github.com/ExtCore) - Free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core 1.0.
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
