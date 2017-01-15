@@ -19,7 +19,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Build Automation](#build-automation)
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
-  * [Cloud](#cloud)
   * [Cryptography](#cryptography)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
@@ -121,10 +120,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
-
-### Cloud
-
-* [AWS SDK](https://www.nuget.org/packages?q=awssdk) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
 
 ### Cryptography
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) - .NET Core port of BCrypt.NET used to store passwords securely.
@@ -271,6 +266,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [octokit.net](https://github.com/octokit/octokit.net/tree/target-the-coreclr) - GitHub API client library for .NET.
 * [Open-XML-SDK-for-NET-Platform-Standard](https://github.com/xrkolovos/Open-XML-SDK-for-NET-Platform-Standard) - .NET Platform Standard implementation of Open XML SDK 2.5.
 * [tweetinvi](https://github.com/linvi/tweetinvi/tree/tweetinvi.netcore) - Intuitive .NET C# library to access the Twitter REST and STREAM API.
+* [AWS SDK](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
 
 ### Security
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
