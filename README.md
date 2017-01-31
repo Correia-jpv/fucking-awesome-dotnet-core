@@ -24,7 +24,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Database Drivers](#database-drivers)
-  * [Data Management Systems] (#data-management-systems)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Graphics](#graphics)
   * [Functional Programming](#functional-programming)
