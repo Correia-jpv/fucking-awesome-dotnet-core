@@ -307,6 +307,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Wire](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
 * [YamlDotNet](https://github.com/aaubry/YamlDotNet) - .NET library for YAML.
 * [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
+* [Edi.Net](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS formats.
 
 ### Testing
 * [Bogus](https://github.com/bchavez/Bogus) - Simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
