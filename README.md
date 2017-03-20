@@ -346,6 +346,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Web Framework
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
+* [RService.io](https://github.com/Stoom/RService.IO) - ASP.Net Core RESTful microservice framework that focusing on speed and ease of use.
 
 ### Web Socket
 * [SignalR Server](https://github.com/aspnet/signalr) - Real-time web functionality for web apps, including server-side push.
