@@ -308,6 +308,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [bond](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
 * [Channels](https://github.com/davidfowl/Channels) - Push based .NET Streams.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [http://csvhelper.com](http://csvhelper.com).
+* [Edi.Net](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - A high-performance type-safe .NET enum utility library.
 * [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer) - Extended Xml Serializer for .NET.
 * [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
@@ -317,9 +318,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers.
 * [TinyCsvParser](https://github.com/bytefish/TinyCsvParser) - Easy to use, easy to extend and high-performance library for CSV parsing with .NET.
 * [Wire](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
-* [YamlDotNet](https://github.com/aaubry/YamlDotNet) - .NET library for YAML.
+* [YamlDotNet](https://github.com/aaubry/YamlDotNet) - .NET 
+* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET.
 * [YAXLib](https://github.com/sinairv/YAXLib) - XML Serialization Library for the .NET Framework and .NET Core. Extremely flexible and powerful.
-* [ZeroFormatter](https://github.com/neuecc/ZeroFormatter) - Fast binary (de)serializer for .NET
 
 ### Testing
 * [Bogus](https://github.com/bchavez/Bogus) - Simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
