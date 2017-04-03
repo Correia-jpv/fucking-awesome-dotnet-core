@@ -333,6 +333,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
   framework for ASP.NET Core MVC.
 * [Netling](https://github.com/hallatore/Netling) - Load tester client for easy web testing.
+* [NSpec](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
 * [nunit](https://github.com/nunit/dotnet-test-nunit) - NUnit test runner for .NET Core.
 * [shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET - the way Asserting *Should* be! [http://shouldly.readthedocs.org/en/latest](http://shouldly.readthedocs.org/en/latest)
