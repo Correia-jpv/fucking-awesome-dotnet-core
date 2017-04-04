@@ -410,6 +410,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Understanding ASP.NET Core Initialization](http://developer.telerik.com/featured/understanding-asp-net-core-initialization/)
 * Cloud Development
   * [Configuring the AWS SDK in .NET Core](https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/)
+  * [Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda](https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo)
   * [Using C# and .NET Core in Amazon Web Services (AWS) Lambda](https://aws.amazon.com/blogs/compute/announcing-c-sharp-support-for-aws-lambda/)
 * Configuration and deployment
   * [.NET project structure](https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
