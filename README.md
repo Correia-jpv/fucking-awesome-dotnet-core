@@ -176,7 +176,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - Super simple ecommerce system built on .NET Core.
 * [Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs.
 
-## Exceptions
+### Exceptions
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ### Graphics
