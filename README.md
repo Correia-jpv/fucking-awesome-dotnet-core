@@ -469,12 +469,12 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [.NET Foundation](http://forums.dotnetfoundation.org)
 * [Channel9](https://channel9.msdn.com/Forums)
 * Stack Overflow
- *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
- *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)
- *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
- *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
- *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
- *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
+  *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
+  *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)
+  *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
+  *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
+  *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
+  *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
 
 ## License
 
