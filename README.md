@@ -258,7 +258,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
-* [Dapper](https://github.com/StackExchange/dapper-dot-net/tree/netstandard) - Simple object mapper for .NET.
+* [Dapper](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
   * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
   * [Dommel](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL ( key value store embedded ) ACID multi-paradigm database management system.
