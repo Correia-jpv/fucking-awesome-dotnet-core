@@ -23,7 +23,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [CMS](#cms)  
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
-  * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Database Drivers](#database-drivers)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Functional Programming](#functional-programming)
@@ -33,6 +32,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
   * [Logging](#logging)
+  * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Mail](#mail)
   * [Mathematics](#mathematics)
   * [Misc](#misc)
@@ -161,9 +161,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
 * [Sprache](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
-### Machine Learning and Data Science
-* [Spreads](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
-
 ### Database Drivers
 * [cassandra-csharp-driver](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
 * [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
@@ -226,6 +223,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
 * [NLog](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging.
 * [Q42.Logging.ApplicationInsights](https://github.com/Q42/Q42.Logging.ApplicationInsights) - Log appender for the build in ASP.NET Core logging to send all logs to Application Insights.
+
+### Machine Learning and Data Science
+* [Spreads](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ### Mail
 * [MailBody](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
