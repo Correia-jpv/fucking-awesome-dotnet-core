@@ -276,7 +276,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
   * [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Trigger events for EF.
-  * [EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx) **Hot** observables of your EF operations.
+  * [EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx) - Reactive **hot** observables of your EF operations.
   * [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) - Easily get the primary key of any entity (including composite keys).
   * [EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) - Get a proxy object of the orginal values of your entity (typed access to Property("...").OriginalValue).
   * [EntityFramework.SoftDeletable](https://github.com/NickStrupat/EntityFramework.SoftDeletable) - Base classes which encapsulate the soft-delete pattern (including keeping a history with user id, etc.).
