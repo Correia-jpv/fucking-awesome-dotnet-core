@@ -289,7 +289,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM.
 * [SqlFu](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
 * [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
-* [SqlKata](http://sqlkata.vivida-apps.com) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
+* [SqlKata](http://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ### Profiling
 * [Glimpse](http://getglimpse.com) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. 
