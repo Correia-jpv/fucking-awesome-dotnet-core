@@ -490,6 +490,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 * Security
   * [.NET Continuous Delivery Microservices](http://stackshare.io/tomstaijen/net-continuous-delivery-microservices)
+  * [ASP.NET Core 2.0 Authentication and Authorization System Demystified](https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html)
   * [A walk-through for an ASP.NET Authorization Lab](https://github.com/blowdart/AspNetAuthorizationWorkshop)
   * [Authentication in ASP.NET Core](https://stormpath.com/blog/authentication-asp-net-core)
 * Testing
