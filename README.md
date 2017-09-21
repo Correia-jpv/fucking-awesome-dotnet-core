@@ -499,6 +499,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Selenium with .NET Core](http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/)
 
 ## Books
+* [.NET Core in Action](https://manning.com/books/dotnet-core-in-action)
 * [ASP.NET Core Application Development: Building an application in four sprints (Developer Reference)](https://www.amazon.com/ASP-NET-Core-Application-Development-application/dp/1509304061)
 * [ASP.NET Core in Action](https://www.manning.com/books/asp-dot-net-core-in-action)
 * [ASP.NET Core 1.0 High Performance](https://www.amazon.com/ASP-NET-Core-1-0-High-Performance/dp/1785881892)
@@ -507,8 +508,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Dependency Injection in .NET Core, 2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition)
 * [Microservices in .NET Core: with C#, the Nancy framework, and OWIN middleware](https://www.amazon.com/Microservices-NET-Core-framework-middleware/dp/1617293377)
 * [Professional C# 6 and .NET Core 1.0](https://www.amazon.com/Professional-NET-Core-Christian-Nagel/dp/111909660X)
-* [.NET Core in Action](https://manning.com/books/dotnet-core-in-action)
-* [The Little ASP.NET Core Book](https://www.recaffeinate.co/book/)
+* [The little ASP.NET Core](https://www.recaffeinate.co/book)
 
 ## Videos
 * [Channel9](https://channel9.msdn.com)
