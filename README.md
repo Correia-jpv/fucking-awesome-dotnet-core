@@ -42,6 +42,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [ORM](#orm)
   * [Profiling](#profiling)
   * [Queue and Messaging](#queue-and-messaging)
+  * [Query Builders](#query-builders)
   * [Scheduler and Job](#scheduler-and-job)
   * [SDKs](#sdks)
   * [Security](#security)
