@@ -198,8 +198,8 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [tarantool-csharp](https://github.com/progaudi/tarantool-csharp) - .NET CLI client for Tarantool NoSql database.
 
 ### Date and Time
-* [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 * [Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
+* [FluentDateTime](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 
 ### Distributed Computing
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
