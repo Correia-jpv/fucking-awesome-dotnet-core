@@ -515,6 +515,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [.NET Core Data Access](https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/)
   * [A very good example about EF Core](https://github.com/rowanmiller/Demo-EFCore)
 * Miraculous
+  * [How to export HTML to PDF in ASP.NET Core](https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce)
   * [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 * Security
   * [.NET Continuous Delivery Microservices](http://stackshare.io/tomstaijen/net-continuous-delivery-microservices)
