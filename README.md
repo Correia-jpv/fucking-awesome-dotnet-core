@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Build Automation](#build-automation)
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
+  * [Compression](#compression)
   * [Cryptography](#cryptography)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
@@ -153,6 +154,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
 * [Microsoft Caching](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
+
+### Compression
+* [lz4net](https://github.com/MiloszKrajewski/lz4net) ultra fast compression algorithm - for all .NET platforms
 
 ### Cryptography
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) - .NET Core port of BCrypt.NET used to store passwords securely.
