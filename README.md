@@ -134,6 +134,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Blockchain
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
+* [Nethereum](https://github.com/Nethereum) - Bringing the love of Ethereum to .NET.
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
