@@ -31,6 +31,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Distributed Computing](#distributed-computing)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Exceptions](#exceptions)
+  * [Extensions](#extensions)
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
   * [GUI](#gui)
@@ -222,6 +223,8 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Exceptions
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
+### Extensions
+* [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
 ### Functional Programming
 * [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
 * [Giraffe](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
