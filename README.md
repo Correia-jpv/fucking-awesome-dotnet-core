@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
 
 ### Machine Learning and Data Science
+* [Accord](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
 * [Spreads](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ### Mail
