@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Application Templates](#application-templates)
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Blockchain](#blockchain)
+  * [Bot](#bot)
   * [Build Automation](#build-automation)
   * [Bundling and Minification](#bundling-and-minification)
   * [Caching](#caching)
@@ -145,6 +146,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Blockchain
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 * [Nethereum](https://github.com/Nethereum) - Bringing the love of Ethereum to .NET.
+
+### Bot
+* [NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
