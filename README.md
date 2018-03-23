@@ -199,6 +199,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [AppMetrics](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health.
   * [Audit.NET](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
   * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+  * [coverlet](https://github.com/tonerdo/coverlet) - Cross platform code coverage library for .NET Core.
   * [Foundatio](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
   * [MiniCover](https://github.com/lucaslorentz/minicover) - Minimalist Code Coverage Tool for .NET Core.
   * [NBench](https://github.com/petabridge/NBench) - Performance benchmarking and testing framework for .NET applications.
