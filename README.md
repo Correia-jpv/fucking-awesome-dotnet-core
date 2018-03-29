@@ -651,7 +651,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ## Podcasts
 * [.NET Rocks](https://www.dotnetrocks.com)
-* [Static Void Podcast](https://www.staticvoidpodcast.com)
 * [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
 ## Community
