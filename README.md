@@ -666,6 +666,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ## Podcasts
 * [.NET Rocks](https://www.dotnetrocks.com)
+* [Merge Conflict](http://www.mergeconflict.fm/)
 * [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
 ## Community
