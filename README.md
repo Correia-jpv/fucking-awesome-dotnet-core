@@ -335,6 +335,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [NLog](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging.
 * [Q42.Logging.ApplicationInsights](https://github.com/Q42/Q42.Logging.ApplicationInsights) - Log appender for the build in ASP.NET Core logging to send all logs to Application Insights.
 * [serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
+* [SEQ](https://getseq.net) - Seq collects data over HTTP, while your applications use the best available structured logging APIs for your platform.
 
 ### Machine Learning and Data Science
 * [Accord](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
