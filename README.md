@@ -98,7 +98,6 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [LightNode](https://github.com/neuecc/LightNode) - Micro RPC/REST Framework built on OWIN [http://neuecc.github.io/LightNode](http://neuecc.github.io/LightNode).
 * [NetCoreStack.Proxy](https://github.com/NetCoreStack/Proxy) - The type-safe, distributed REST library for .NET Standard 2.0 (NetCoreStack Flying Proxy)
 * [NSwag](https://github.com/NSwag/NSwag) - The Swagger API toolchain for .NET, Web API and TypeScript [http://NSwag.org](http://NSwag.org).
-* [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway.
 * [OData](https://github.com/OData/WebApi/tree/feature/netcore) - The Open Data Protocol (OData) enables the creation of HTTP-based data services, which allow resources identified using Uniform Resource Identifiers (URIs) and defined in an abstract data model, to be published and edited by Web clients using simple HTTP messages.
 * [refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET.
 * [RESTClient .NET](https://bitbucket.org/MelbourneDeveloper/restclient-.net) - Simple REST Client for all .NET platforms.
@@ -279,7 +278,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [aspnetcore-health](https://github.com/lurumad/aspnetcore-health) - Enables load balancers to monitor the status of deployed Web applications.
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
 * [Obvs](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces.
-* [Ocelot](https://github.com/TomPallister/Ocelot) - API Gateway created using .NET Core.
+* [Ocelot](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core.
 * [OpenTracing](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing.
 * [Polly](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
 
