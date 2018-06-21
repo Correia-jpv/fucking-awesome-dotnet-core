@@ -169,6 +169,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Bot
 * [NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#.
+* [Funogram](https://github.com/Dolfik1/Funogram) - .NET Standard Telegram Bot API library written in F#.
 
 ### Build Automation
 * [cake-build](https://github.com/cake-build/cake) - Cross platform build automation system. [http://cakebuild.net](http://cakebuild.net).
