@@ -133,6 +133,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes.
 * [grpc](https://github.com/grpc/grpc/tree/master/src/csharp) - Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over HTTP/2. These libraries enable communication between clients and servers using any combination of the supported languages.
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
+* [MagicOnion](https://github.com/neuecc/MagicOnion) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 * [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET. 
 * [microdot](https://github.com/gigya/microdot) - An open source .NET microservices framework.
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects.
