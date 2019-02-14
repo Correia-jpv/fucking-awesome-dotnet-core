@@ -8,69 +8,65 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ## Contents
 
-* [Awesome .NET Core ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-net-core-awesomehttpsgithubcomsindresorhusawesome)
-  * [Contents](#contents)
-  * [General](#general)
-  * [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
-    * [API](#api)
-    * [Application Frameworks](#application-frameworks)
-    * [Application Templates](#application-templates)
-    * [Authentication and Authorization](#authentication-and-authorization)
-    * [Blockchain](#blockchain)
-    * [Bot](#bot)
-    * [Build Automation](#build-automation)
-    * [Bundling and Minification](#bundling-and-minification)
-    * [Caching](#caching)
-    * [CMS](#cms)
-    * [Code Analysis and Metrics](#code-analysis-and-metrics)
-    * [Compression](#compression)
-    * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
-    * [Cryptography](#cryptography)
-    * [Database](#database)
-    * [Database Drivers](#database-drivers)
-    * [Database Tools and Utilities](#database-tools-and-utilities)
-    * [Date and Time](#date-and-time)
-    * [Distributed Computing](#distributed-computing)
-    * [E-Commerce and Payments](#e-commerce-and-payments)
-    * [Exceptions](#exceptions)
-    * [Functional Programming](#functional-programming)
-    * [Graphics](#graphics)
-    * [GUI](#gui)
-    * [IDE](#ide)
-    * [Internationalization](#internationalization)
-    * [IOC](#ioc)
-    * [Logging](#logging)
-    * [Machine Learning and Data Science](#machine-learning-and-data-science)
-    * [Mail](#mail)
-    * [Mathematics](#mathematics)
-    * [Misc](#misc)
-    * [Networking](#networking)
-    * [ORM](#orm)
-    * [Profiling](#profiling)
-    * [Query Builders](#query-builders)
-    * [Queue and Messaging](#queue-and-messaging)
-    * [Reporting](#reporting)
-    * [Scheduler and Job](#scheduler-and-job)
-    * [SDKs](#sdks)
-    * [Security](#security)
-    * [Searching](#searching)
-    * [Serialization](#serialization)
-    * [Template Engine](#template-engine)
-    * [Testing](#testing)
-    * [Tools](#tools)
-    * [Web Framework](#web-framework)
-    * [Web Socket](#web-socket)
-    * [Windows Service](#windows-service)
-    * [Workflow](#workflow)
-  * [Starter Kits](#starter-kits)
-  * [Sample Projects](#sample-projects)
-  * [Articles](#articles)
-  * [Books](#books)
-  * [Cheat Sheets](#cheat-sheets)
-  * [Videos](#videos)
-  * [Podcasts](#podcasts)
-  * [Community](#community)
-  * [License](#license)
+* [General](#general)
+* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
+  * [API](#api)
+  * [Application Frameworks](#application-frameworks)
+  * [Application Templates](#application-templates)
+  * [Authentication and Authorization](#authentication-and-authorization)
+  * [Blockchain](#blockchain)
+  * [Bot](#bot)
+  * [Build Automation](#build-automation)
+  * [Bundling and Minification](#bundling-and-minification)
+  * [Caching](#caching)
+  * [CMS](#cms)
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)  
+  * [Compression](#compression)
+  * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
+  * [Cryptography](#cryptography)
+  * [Database](#database)
+  * [Database Drivers](#database-drivers)
+  * [Database Tools and Utilities](#database-tools-and-utilities)
+  * [Date and Time](#date-and-time)
+  * [Distributed Computing](#distributed-computing)
+  * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Exceptions](#exceptions)
+  * [Functional Programming](#functional-programming)
+  * [Graphics](#graphics)
+  * [GUI](#gui)
+  * [IDE](#ide)
+  * [Internationalization](#internationalization)
+  * [IOC](#ioc)
+  * [Logging](#logging)
+  * [Machine Learning and Data Science](#machine-learning-and-data-science)
+  * [Mail](#mail)
+  * [Mathematics](#mathematics)
+  * [Networking](#networking)
+  * [Misc](#misc)
+  * [ORM](#orm)
+  * [Profiling](#profiling)
+  * [Queue and Messaging](#queue-and-messaging)
+  * [Query Builders](#query-builders)
+  * [Scheduler and Job](#scheduler-and-job)
+  * [SDKs](#sdks)
+  * [Security](#security)
+  * [Searching](#searching)
+  * [Serialization](#serialization)
+  * [Template Engine](#template-engine)
+  * [Testing](#testing)
+  * [Tools](#tools)
+  * [Web Framework](#web-framework)
+  * [Web Socket](#web-socket)
+  * [Windows Service](#windows-service)
+  * [Workflow](#workflow)
+* [Starter Kits](#starter-kits)
+* [Sample Projects](#sample-projects)
+* [Articles](#articles)
+* [Books](#books)
+* [Cheat Sheets](#cheat-sheets)
+* [Videos](#videos)
+* [Podcasts](#podcasts)
+* [Community](#community)
 
 ## General
 
@@ -304,7 +300,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
-* [LiteDB](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file * [http://www.litedb.org](http://www.litedb.org).
+* [LiteDB](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - [http://www.litedb.org](http://www.litedb.org).
 * [NoDb](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
 * [marten](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications [http://jasperfx.github.io/marten](http://jasperfx.github.io/marten).
 * [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
@@ -371,7 +367,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [LaYumba.Functional](https://github.com/la-yumba/functional-csharp-code) - Utility library for programming functionally in C#.
 * [NetMQ.ReactiveExtensions](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
 * [Optional](https://github.com/nlkl/Optional) - A robust option type for C#.
-* [reactive-streams-dotnet](https://github.com/reactive-streams/reactive-streams-dotnet) * [Reactive Streams](http://www.reactive-streams.org/) for .NET.
+* [reactive-streams-dotnet](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
 * [Qactive](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
@@ -820,7 +816,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Authentication in ASP.NET Core](https://stormpath.com/blog/authentication-asp-net-core)
 * Testing
   * [Selenium with .NET Core](http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/)
-* [InfoQ .NET articles](https://www.infoq.com/dotnet) -  Collection of best .NET articles on InfoQ site
+- [InfoQ .NET articles](https://www.infoq.com/dotnet) -  Collection of best .NET articles on InfoQ site
 
 ## Books
 * [.NET Core in Action](https://manning.com/books/dotnet-core-in-action)
