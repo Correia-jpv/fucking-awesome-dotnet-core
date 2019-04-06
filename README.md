@@ -36,6 +36,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
   * [GUI](#gui)
+  * [HTTP](#http)
   * [IDE](#ide)
   * [Internationalization](#internationalization)
   * [IOC](#ioc)
@@ -399,6 +400,11 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit](https://github.com/icsharpcode/AvalonEdit)
 * [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core.
 * [WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+
+### HTTP
+* [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+* [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
+* [WebAnchor](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
 
 ### IDE
 * [Mono](https://github.com/mono/monodevelop) - MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
