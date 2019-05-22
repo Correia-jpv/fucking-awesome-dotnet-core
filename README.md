@@ -882,6 +882,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ## Community
 * [.NET Foundation](http://forums.dotnetfoundation.org)
+* [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 * [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
 * [ASP.NET](https://forums.asp.net)
 * [Channel9](https://channel9.msdn.com)
