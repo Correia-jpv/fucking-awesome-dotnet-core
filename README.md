@@ -471,6 +471,8 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [SendGrid Client](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 * [SmtpServer](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+* [smtp4dev](https://github.com/rnwood/smtp4dev) smtp4dev - the mail server for development
+* [Papercut](https://github.com/ChangemakerStudios/Papercut)  Papercut Simple Desktop SMTP Server
 
 ### Mathematics
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
