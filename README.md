@@ -67,7 +67,6 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Sample Projects](#sample-projects)
 * [Articles](#articles)
 * [Books](#books)
-* [Cheat Sheets](#cheat-sheets)
 * [Videos](#videos)
 * [Podcasts](#podcasts)
 * [Community](#community)
@@ -906,8 +905,6 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Professional C# 6 and .NET Core 1.0](https://www.amazon.com/Professional-NET-Core-Christian-Nagel/dp/111909660X)
 * [The little ASP.NET Core](https://www.recaffeinate.co/book)
 
-## Cheat Sheets
-* [dotnet cli Cheat Sheet](http://en.otomatikmuhendis.com/2018/07/02/cheat-sheet-for-dotnet-cli/)
 
 ## Videos
 * [Channel9](https://channel9.msdn.com) - MSDN
