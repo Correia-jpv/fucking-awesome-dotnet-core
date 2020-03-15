@@ -43,6 +43,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Mail](#mail)
   * [Mathematics](#mathematics)
+  * [Media](#media)
   * [Networking](#networking)
   * [Misc](#misc)
   * [Office](#office)
@@ -497,8 +498,11 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
 * [AutoDiff](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
 
+### Media
+* [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts metadata from media (images, video, audio) with a simple to use API.
+
 ### Misc
-* [AdvanceDLSupport](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improvie P/Invoke-ing native code. Interact with native objects as if they were first class objects.
+* [AdvanceDLSupport](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
