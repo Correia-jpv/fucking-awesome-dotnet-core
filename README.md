@@ -920,6 +920,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ## Videos
 * [Channel9](https://channel9.msdn.com) - MSDN
 * [Channel9](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g) - YouTube
+* [Microsoft Learning Center](https://dotnet.microsoft.com/learn/aspnet)
  * [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 * [Visual Studio](https://www.youtube.com/user/VisualStudio/channels)
 
