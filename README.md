@@ -582,7 +582,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * [Networker](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
 
 ### Office
-* [EPPlus](https://github.com/JanKallman/EPPlus) - Create advanced Excel spreadsheets using .NET.
+* [EPPlus](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
 * [npoi](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 
