@@ -170,6 +170,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 * <b><code>&nbsp;&nbsp;&nbsp;103⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8🍴</code></b> [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs)) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 * <b><code>&nbsp;&nbsp;&nbsp;927⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;221🍴</code></b> [X.PagedList](https://github.com/dncuug/X.PagedList)) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source .NET agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 ### Application Templates
 * <b><code>&nbsp;&nbsp;3485⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;498🍴</code></b> [.NET Boxed](https://github.com/Dotnet-Boxed/Templates)) - Project templates with batteries included, providing the minimum amount of code required to get you going. Includes ASP.NET Core API and GraphQL Templates.
 * <b><code>&nbsp;&nbsp;&nbsp;624⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;178🍴</code></b> [aspnet-core-react-template](https://github.com/bradymholt/aspnet-core-react-template)) - ASP.NET Core 2.0 / React SPA Template App.
@@ -988,4 +989,3 @@ To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung
 
 ## Source
 <b><code>&nbsp;21376⭐</code></b> <b><code>&nbsp;&nbsp;2953🍴</code></b> [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core))
-* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source .NET agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
