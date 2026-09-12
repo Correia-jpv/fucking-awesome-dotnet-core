@@ -152,7 +152,6 @@ Follows best practices and conventions to provide you a SOLID development experi
 * <b><code>&nbsp;&nbsp;8917⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;794🍴</code></b> [fission](https://github.com/fission/fission)) - Fast Serverless Functions for Kubernetes.
 * <b><code>&nbsp;45306⭐</code></b> <b><code>&nbsp;11363🍴</code></b> [grpc](https://github.com/grpc/grpc/tree/master/src/csharp)) - Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over HTTP/2. These libraries enable communication between clients and servers using any combination of the supported languages.
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;24⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;47🍴</code></b> [Halibut](https://github.com/OctopusDeploy/Halibut)) - A secure communication stack for .NET using JSON-RPC over SSL.
-* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source .NET agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 * <b><code>&nbsp;&nbsp;4448⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;461🍴</code></b> [MagicOnion](https://github.com/neuecc/MagicOnion)) - gRPC based HTTP/2 RPC Streaming Framework for .NET, .NET Core and Unity.
 * <b><code>&nbsp;&nbsp;7801⭐</code></b> <b><code>&nbsp;&nbsp;1976🍴</code></b> [MassTransit](https://github.com/MassTransit/MassTransit)) - Distributed Application Framework for .NET. 
 * <b><code>&nbsp;&nbsp;1535⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;230🍴</code></b> [microdot](https://github.com/gigya/microdot)) - An open source .NET microservices framework.
@@ -989,3 +988,4 @@ To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung
 
 ## Source
 <b><code>&nbsp;21376⭐</code></b> <b><code>&nbsp;&nbsp;2953🍴</code></b> [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core))
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source .NET agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
